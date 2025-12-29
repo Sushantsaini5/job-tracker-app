@@ -2,7 +2,7 @@
 import axios from 'axios';
 
 // Base URL for API
-const API_BASE_URL = 'http://localhost:8080/api';
+const API_BASE_URL = 'https://job-tracker-backend.onrender.com';
 
 // Create axios instance
 const api = axios.create({
